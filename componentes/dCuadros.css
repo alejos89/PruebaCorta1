@@ -8,7 +8,7 @@
     width: 60rem;
     align-items: center;
     }
-.cuadros{
+.cuadros{   
     height: 17rem;
     width: 17rem;
     border: 1px solid black;
@@ -17,4 +17,11 @@
     margin-left: 6rem;
    
     
+}
+
+.github-link{
+    font-size: 4rem;
+    color: black;
+   
+
 }
