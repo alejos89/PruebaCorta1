@@ -4,3 +4,8 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+html{
+    font-size: 10px;
+    font-family: monospace;
+}

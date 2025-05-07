@@ -1,0 +1,20 @@
+
+.cuadro1{
+    border-bottom:1px solid black;
+    height: 10rem;
+    width: 100%;
+    
+}
+
+.cuadro2{
+   
+    height: 70rem;
+
+    
+}
+
+.cuadro3{
+    border-top: 1px solid black;
+    height: 10rem;
+    width: 100%;
+}
