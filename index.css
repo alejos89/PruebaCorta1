@@ -11,6 +11,8 @@
 
 .cuadro2{
     height: 70rem;
+    display: flex;
+    justify-content:space-around;
 }
 
 .cuadro3{
@@ -28,3 +30,4 @@
     font-size: 30px;
     
 }
+
